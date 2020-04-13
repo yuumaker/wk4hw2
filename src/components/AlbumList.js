@@ -6,8 +6,6 @@ const Albumlist = () => {
   return (
     <ScrollView>
       <AlbumDetail />
-      <AlbumDetail />
-      <AlbumDetail />
     </ScrollView>
   );
 };
