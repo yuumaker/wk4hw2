@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H72V72H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__icon_drawer_mybook">
+        <path id="prefix__Rectangle_155" d="M0 0H72V72H0z" class="prefix__cls-1" data-name="Rectangle 155"/>
+        <path id="prefix__Exclusion_1" d="M1422 948h-27v-42h9v24l6-5.333 6 5.333v-24h6a2 2 0 0 1 2 2v38a2 2 0 0 1-2 2zm-56 0a2 2 0 0 1-2-2v-38a2 2 0 0 1 2-2h27v42h-27z" data-name="Exclusion 1" transform="translate(-1359 -891)" style="fill:#818181"/>
+    </g>
+</svg>
